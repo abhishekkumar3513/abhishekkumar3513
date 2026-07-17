@@ -39,6 +39,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&repeat=true&width=500&lines=Thank+you+for+visiting+my+GitHub+profile!+👋" alt="Typing SVG" />
+<h3>Thank you for visiting my profile!</h3>
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px"/>
 
 </div>
